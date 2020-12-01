@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/test-system/static/css/main.0b9317c4.chunk.css",
-    "main.js": "/test-system/static/js/main.72f07b2d.chunk.js",
-    "main.js.map": "/test-system/static/js/main.72f07b2d.chunk.js.map",
-    "runtime-main.js": "/test-system/static/js/runtime-main.4ffc0379.js",
-    "runtime-main.js.map": "/test-system/static/js/runtime-main.4ffc0379.js.map",
-    "static/js/2.50134fd7.chunk.js": "/test-system/static/js/2.50134fd7.chunk.js",
-    "static/js/2.50134fd7.chunk.js.map": "/test-system/static/js/2.50134fd7.chunk.js.map",
-    "index.html": "/test-system/index.html",
-    "static/css/main.0b9317c4.chunk.css.map": "/test-system/static/css/main.0b9317c4.chunk.css.map",
-    "static/js/2.50134fd7.chunk.js.LICENSE.txt": "/test-system/static/js/2.50134fd7.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/test-system/static/media/green-backdrop.4ca2c85c.jpg",
-    "static/media/pict1.a0f73c90.jpg": "/test-system/static/media/pict1.a0f73c90.jpg",
-    "static/media/test1.783566e3.mp3": "/test-system/static/media/test1.783566e3.mp3"
+    "main.css": "/advent-calendar/static/css/main.61cda649.chunk.css",
+    "main.js": "/advent-calendar/static/js/main.c263808d.chunk.js",
+    "main.js.map": "/advent-calendar/static/js/main.c263808d.chunk.js.map",
+    "runtime-main.js": "/advent-calendar/static/js/runtime-main.a9a4e370.js",
+    "runtime-main.js.map": "/advent-calendar/static/js/runtime-main.a9a4e370.js.map",
+    "static/js/2.00165b22.chunk.js": "/advent-calendar/static/js/2.00165b22.chunk.js",
+    "static/js/2.00165b22.chunk.js.map": "/advent-calendar/static/js/2.00165b22.chunk.js.map",
+    "index.html": "/advent-calendar/index.html",
+    "static/css/main.61cda649.chunk.css.map": "/advent-calendar/static/css/main.61cda649.chunk.css.map",
+    "static/js/2.00165b22.chunk.js.LICENSE.txt": "/advent-calendar/static/js/2.00165b22.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/advent-calendar/static/media/green-backdrop.4ca2c85c.jpg",
+    "static/media/pict1.a0f73c90.jpg": "/advent-calendar/static/media/pict1.a0f73c90.jpg",
+    "static/media/test1.783566e3.mp3": "/advent-calendar/static/media/test1.783566e3.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ffc0379.js",
-    "static/js/2.50134fd7.chunk.js",
-    "static/css/main.0b9317c4.chunk.css",
-    "static/js/main.72f07b2d.chunk.js"
+    "static/js/runtime-main.a9a4e370.js",
+    "static/js/2.00165b22.chunk.js",
+    "static/css/main.61cda649.chunk.css",
+    "static/js/main.c263808d.chunk.js"
   ]
 }
